@@ -20,7 +20,7 @@ This is a simple web application that allows users to search for images using th
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/ermias-tesfaye/unsplash-api.git
     cd your-repo-name
     ```
 
