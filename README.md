@@ -21,7 +21,7 @@ This is a simple web application that allows users to search for images using th
 
     ```bash
     git clone https://github.com/ermias-tesfaye/unsplash-api.git
-    cd your-repo-name
+    cd to-repo-name
     ```
 
 2. Install the dependencies:
